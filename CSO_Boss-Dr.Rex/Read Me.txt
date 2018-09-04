@@ -1,0 +1,8 @@
+You have to config the CSO_Dr.Rex.sma
+Open the sma and find line 14
+
+#define EXHERO_PLUGIN "Zombie_TheHeroEX_fix.amxx"
+
+if you are using zombie exhero or zombieplague, type the amxx core file name correctly. so that when Dr.Rex appears, zombie infection
+feature is disable -> no infection during the fight
+The will be a vote at timelimit = 5, you must set your timelimit in server.cfg when sv started
